@@ -98,6 +98,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>DM_SB_Create.jar</finalName>
 	</build>
 
 </project>
