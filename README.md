@@ -1,2 +1,2 @@
 # DM_SB_Create
-Create  application for  
+Create  application for Sample Use Case Demonstration
