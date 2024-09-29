@@ -1,6 +1,6 @@
 package com.dm.service;
 
-public interface AgeCalculatorService {
+public interface BiologicalAgeStatsService {
 	String calculateAge(String dob);
 
 }

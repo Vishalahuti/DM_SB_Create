@@ -5,12 +5,12 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.dm.service.AgeCalculatorService;
+import com.dm.service.BiologicalAgeStatsService;
 
 @RestController
 public class CreateController {
 	@Autowired
-	AgeCalculatorService ageCalculatorService;
+	BiologicalAgeStatsService ageCalculatorService;
 	
 	
 	@GetMapping("/checkConnection")
