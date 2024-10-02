@@ -86,6 +86,7 @@ public class BiologicalAgeStatsServiceImpl implements BiologicalAgeStatsService{
 
         // Return the complete biological stats report
         return String.format(
+        		"This is Amazing facts about your biological age\n" +
                 "Your exact age is: %d years %d months %d days %d hours %d minutes %d seconds\n" +
                 "Your heart has beaten approximately: %d times\n" +
                 "You have taken approximately: %d breaths\n" +
